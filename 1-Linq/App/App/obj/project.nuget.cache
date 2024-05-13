@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vYZ4NkfzQHO6Bwvfm5HIRNGQrzR7AtHlrlUPqK/BJ9Ipa8b8xAzVNcnHQfhPhtXhC5tZaFcwqq2IujIBOabPhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emred\\OneDrive\\Masaüstü\\LINQ_PLINQ\\1-Linq\\App\\App\\App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emred\\.nuget\\packages\\dumpify\\0.6.5\\dumpify.0.6.5.nupkg.sha512",
+    "C:\\Users\\emred\\.nuget\\packages\\spectre.console\\0.48.0\\spectre.console.0.48.0.nupkg.sha512",
+    "C:\\Users\\emred\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
